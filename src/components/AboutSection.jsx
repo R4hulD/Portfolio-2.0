@@ -83,10 +83,10 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Cloud & AI</h4>
                   <p className="text-muted-foreground">
-                    Proficient in project management with agile
-                    methodologies.
+                    Interested in latest trends and adept at leveraging cloud services like GCP 
+                    and AI for automation. 
                   </p>
                 </div>
               </div>
@@ -102,12 +102,12 @@ export const AboutSection = () => {
                 <a href="https://github.com/R4hulD" target="_blank" className="p-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                   <Github size={20} />
                 </a>
-                <a
+                {/* <a
                 href=""
                 className="px-4 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 text-sm"
                 >
                 Download CV
-              </a>
+              </a> */}
               </div>
             </div>
           </div>
